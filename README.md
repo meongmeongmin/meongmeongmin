@@ -1,10 +1,8 @@
-### Hi there, I`m Meong Meongmin ?
+### Hi there, I`m Meong Meongmin
 
-Areas of interest: Game development(Client, Sever), `Unity`
+Game development(Client, Sever), `Unity`
 
-°ÔÀÓ °³¹ßÀÚ¸¦ ¸ñÇ¥·Î ÇÏ°í ÀÖ½À´Ï´Ù. ÇöÀç´Â Å¬¶óÀÌ¾ğÆ®¸¦ ÁÖ·Î ÇÏ°í ÀÖÀ¸¸ç, ÃßÈÄ¿¡ ¼­¹öµµ ÇÔ²² °øºÎÇÒ »ı°¢ÀÔ´Ï´Ù.
-ÁÖ ¾ğ¾î´Â `C#`ÀÔ´Ï´Ù. °ÔÀÓ °³¹ßÀÚÀÇ ÇÊ¼ö ¿ª·®ÀÎ `C++`µµ ÁÖ ¾ğ¾î°¡ µÉ ¼ö ÀÖµµ·Ï °øºÎÇÏ·Á°í ÇÕ´Ï´Ù.
+ê²Œì„ ê°œë°œìë¥¼ ëª©í‘œë¡œ í•˜ê³  ìˆìŠµë‹ˆë‹¤. í˜„ì¬ëŠ” í´ë¼ì´ì–¸íŠ¸ë¥¼ ì£¼ë¡œ í•˜ê³  ìˆìœ¼ë©°, ì¶”í›„ì— ì„œë²„ë„ í•¨ê»˜ ê³µë¶€í•  ìƒê°ì…ë‹ˆë‹¤.
+ì£¼ ì–¸ì–´ëŠ” `C#`ì…ë‹ˆë‹¤. ê²Œì„ ê°œë°œìì˜ í•„ìˆ˜ ì—­ëŸ‰ì¸ `C++`ë„ ì£¼ ì–¸ì–´ê°€ ë  ìˆ˜ ìˆë„ë¡ ê³µë¶€í•˜ë ¤ê³  í•©ë‹ˆë‹¤.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meongmeongmin&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongmeongmin&layout=compact&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meongmeongmin&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meongmeongmin&layout=compact&theme=dracula)
