@@ -4,8 +4,7 @@
 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Unity-20232a.svg?style=for-the-badge&logo=unity&logoColor=FFFFFF"/>
 
-게임 개발자를 목표로 하고 있습니다. 현재는 클라이언트를 주로 하고 있으며, 추후에 서버도 함께 공부할 계획입니다.
-주 언어는 `C#`과 `C++` 입니다.
+게임 클라이언트 개발자를 목표로 하고 있습니다. 주 언어는 `C#`과 `C++` 입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pr620718)](https://solved.ac/pr620718/)
 
